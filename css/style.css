@@ -1,0 +1,89 @@
+body{
+    background-color:  hsl(0, 100%, 74%);
+    background-image: url(../images/bg-intro-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    width: 500px;
+    font-size: 50px;
+}
+
+p{
+    color: white;
+    width: 500px;
+}
+
+h2{
+border: none;
+background-color:hsl(248, 32%, 49%) ;
+border-radius: 10px;
+color: white;
+font-weight: 400;
+font-size: 15px;
+box-shadow: 0px 9px 7px hsl(249, 10%, 26%);
+text-align: center;
+padding: 15px 15px;
+cursor: pointer;
+}
+
+span{
+    font-weight: 700;
+}
+
+.body-container{
+display: flex;
+justify-content: space-evenly;
+}
+
+.subject{
+padding-top: 200px;
+
+}
+
+.flex{
+    background-color: white;
+    border-radius: 10px;
+    padding: 35px;
+    margin-top: 25px;
+    
+
+}
+
+input{
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 450px;
+    border: 1px solid grey;
+    font-size: 18px;
+}
+
+
+
+.ee{
+    padding-top: 80px;
+}
+
+button{
+    background-color: hsl(154, 59%, 51%);
+    color: white;
+    border: none;
+    width: 477px;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.span1{
+    color: hsl(0, 100%, 74%);
+}
+
+h6{
+    text-align: center;
+}
